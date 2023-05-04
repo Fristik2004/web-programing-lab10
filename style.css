@@ -35,7 +35,7 @@
 }
 
 @media (min-width: 576px) {
-   .flex-red{
+   .fred{
       display: flex;
    }
 }
@@ -51,7 +51,7 @@
 }
 
 @media (min-width: 768px) {
-   .flex-yellow{
+   .fyellow{
       display: flex;
    }
 }
@@ -68,7 +68,7 @@
    }
 }
 @media (min-width: 992px) {
-   .flex-grey{
+   .fgrey{
       display: flex;
    }
 }
